@@ -1,2 +1,2 @@
 # auto_tests
-auto tests with python
+auto tests with python(selenium)
